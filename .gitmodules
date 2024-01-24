@@ -1,0 +1,16 @@
+[submodule "challenges/qr-code-component"]
+	path = challenges/qr-code-component
+	url = https://github.com/DevK-Eire/qr-code-component
+[submodule "challenges/blog-preview-card-main"]
+	path = challenges/blog-preview-card-main
+	url = https://github.com/DevK-Eire/Blog-Preview-Card-Main
+[submodule "challenges/expenses-chart-component-main"]
+	path = challenges/expenses-chart-component-main
+	url = https://github.com/DevK-Eire/expense-chart
+[submodule "challenges/countries"]
+	path = challenges/countries
+	url = https://github.com/adamrichardturner/countries.git
+[submodule "challenges/results-summary-component-main"]
+	path = challenges/results-summary-component-main
+	url = https://github.com/DevK-Eire/results-summary
+
