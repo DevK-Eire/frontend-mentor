@@ -89,7 +89,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://qr-code.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/qr-code-component/tree/main" target="_blank">Repo</a>
+    <a href="https://qr-code-component-five-omega.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/qr-code-component/tree/main" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
