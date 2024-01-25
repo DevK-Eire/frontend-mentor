@@ -6,7 +6,7 @@ Each project showcases a variety of skills and technologies used in modern softw
 
 Below are a list of these projects with links to the live sites, code repositories, and the original challenge descriptions.
 
-## 📚 Project List
+## 📚 Project List (4)
 
 <br>
 
@@ -20,7 +20,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://expense-chart-gamma.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/expense-chart/" target="_blank">Repo</a>
+    <a href="https://expense-chart-gamma.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/expense-chart/" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt" target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
@@ -42,7 +42,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://blog-preview-card-main-inky.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/Blog-Preview-Card-Main" target="_blank">Repo</a>
+    <a href="https://blog-preview-card-main-inky.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/Blog-Preview-Card-Main" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://remarkable-piroshki-9a31d3.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/results-summary" target="_blank">Repo</a>
+    <a href="https://remarkable-piroshki-9a31d3.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/results-summary" target="_blank">Repo</a> | <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
@@ -89,7 +89,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://qr-code-component-five-omega.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/qr-code-component/tree/main" target="_blank">Repo</a>
+    <a href="https://qr-code.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/qr-code-component/tree/main" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
