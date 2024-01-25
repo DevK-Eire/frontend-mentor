@@ -66,7 +66,7 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://remarkable-piroshki-9a31d3.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/results-summary" target="_blank">Repo</a> | <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV target="_blank">Try it Out</a>
+    <a href="https://remarkable-piroshki-9a31d3.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/results-summary" target="_blank">Repo</a> | <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV" target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
