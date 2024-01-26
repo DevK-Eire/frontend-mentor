@@ -57,8 +57,8 @@ Join our discord Community for support, tips and tricks for the challenges https
   </p>
 </td>
 <td width="50%">
+ <h2 align="center">QR Code Component</h2>
   <picture>
-<h2 align="center">QR Code Component</h2>
     <a href="https://qr-code-component-five-omega.vercel.app/" target="_blank">
       <img alt="QR Code Component Preview" src="https://raw.githubusercontent.com/DevK-Eire/qr-code-component/main/app/assets/screenshot.jpg" align="center">
  	</picture>
