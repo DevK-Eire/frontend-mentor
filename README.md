@@ -20,7 +20,7 @@ Join our discord Community for support, tips and tricks for the challenges https
 <!-- Blog Preview Card -->
 <table align="center"><tr>
 <td width="50%">
- <h2 align="center">January Challenge One</h2>
+ <h1 align="center">January Challenge One</h1>
    <h3 align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
@@ -46,7 +46,7 @@ Join our discord Community for support, tips and tricks for the challenges https
 <!-- QR Code Component -->
 <table align="center"><tr>
 <td width="50%">
-<h2 align="center">January Bonus Challenge </h2>
+<h1 align="center">January Bonus Challenge </h1>
     <h3 align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
