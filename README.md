@@ -66,6 +66,32 @@ Join our discord Community for support, tips and tricks for the challenges https
 </tr></table>
 <br>
 
+## 🌟 Premium (1)
+
+<!-- Expenses Chart -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">Equalizer Landing Page</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://equalizer-landing-page-jade.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/Equalizer-Landing-Page" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE" target="_blank">Try it Out</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <a href="https://equalizer-landing-page-jade.vercel.app/" target="_blank">
+      <img alt="Equalizer Landing Page" src="https://github.com/DevK-Eire/Equalizer-Landing-Page/blob/main/public/DesktopEQ.PNG" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+<br>
+
+
 ## 📚 Personal Project List (2)
 
 <!-- Expenses Chart -->
