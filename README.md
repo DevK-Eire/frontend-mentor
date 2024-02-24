@@ -13,7 +13,7 @@ Below are a list of these projects with links to the live sites, code repositori
 
 Join our discord Community for support, tips and tricks for the challenges https://discord.gg/VJ4FncVN6A
 
-## 📚 Challenge Project List (5)
+## 📚 Challenge Project List (6)
 
 <br>
 
@@ -64,6 +64,31 @@ Join our discord Community for support, tips and tricks for the challenges https
  	</picture>
 </td>
 </tr></table>
+<br>
+
+<!-- Omelette Recipe Page -->
+<table align="center"><tr>
+<td width="50%">
+ <h1 align="center">February Challenge One</h1>
+   <h3 align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://recipe-page-lime.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/recipe-page/tree/main" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm" target="_blank">Try it Out</a>
+  </p>
+</td>
+<td width="50%">
+ <h2 align="center">Omelette Recipe Page</h2>
+  <picture>
+    <a href="https://recipe-page-lime.vercel.app/" target="_blank">
+      <img alt="Blog Preview Card Preview" src="https://github.com/DevK-Eire/recipe-page/blob/main/public/omlette.PNG" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+
 <br>
 
 ## 🌟 Premium (1)
