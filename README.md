@@ -13,7 +13,7 @@ Below are a list of these projects with links to the live sites, code repositori
 
 Join our discord Community for support, tips and tricks for the challenges https://discord.gg/VJ4FncVN6A
 
-## 📚 Challenge Project List (6)
+## 📚 Challenge Project List (7)
 
 <br>
 
@@ -90,6 +90,29 @@ Join our discord Community for support, tips and tricks for the challenges https
 </tr></table>
 
 <br>
+
+<!-- Four Card Feature Section -->
+<table align="center"><tr>
+<td width="50%">
+ <h1 align="center">February Challenge One</h1>
+   <h3 align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://four-card-feature-section-phi-three.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/four-card-feature-section" target="_blank">Repo</a>  | <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK" target="_blank">Try it Out</a>
+  </p>
+</td>
+<td width="50%">
+ <h2 align="center">Four Card Feature Section</h2>
+  <picture>
+    <a href="https://four-card-feature-section-phi-three.vercel.app/" target="_blank">
+      <img alt="Blog Preview Card Preview" src="https://github.com/DevK-Eire/four-card-feature-section/blob/main/public/fcdesktop.PNG" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
 
 ## 🌟 Premium (1)
 
