@@ -94,7 +94,7 @@ Join our discord Community for support, tips and tricks for the challenges https
 <!-- Four Card Feature Section -->
 <table align="center"><tr>
 <td width="50%">
- <h1 align="center">February Challenge One</h1>
+ <h1 align="center">February Challenge Two</h1>
    <h3 align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
