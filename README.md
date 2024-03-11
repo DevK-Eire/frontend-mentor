@@ -13,7 +13,7 @@ Below are a list of these projects with links to the live sites, code repositori
 
 Join our discord Community for support, tips and tricks for the challenges https://discord.gg/VJ4FncVN6A
 
-## 📚 Challenge Project List (7)
+## 📚 Challenge Project List (8)
 
 <br>
 
@@ -109,6 +109,30 @@ Join our discord Community for support, tips and tricks for the challenges https
   <picture>
     <a href="https://four-card-feature-section-phi-three.vercel.app/" target="_blank">
       <img alt="Blog Preview Card Preview" src="https://github.com/DevK-Eire/four-card-feature-section/blob/main/public/fcdesktop.PNG" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+
+<!-- Social Media Dashboard Section -->
+<table align="center"><tr>
+<td width="50%">
+ <h1 align="center">February Challenge Three</h1>
+   <h3 align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://social-media-dashboard-jet-five.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/social-media-dashboard" target="_blank">Repo</a>  | <a      
+    href="https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-o9iJhXlKrx" target="_blank">Try it Out</a>
+  </p>
+</td>
+<td width="50%">
+ <h2 align="center">Social Media Dashboard Section</h2>
+  <picture>
+    <a href="https://social-media-dashboard-jet-five.vercel.app/" target="_blank">
+      <img alt="Blog Preview Card Preview" src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ftdvklbtn6y7ydjxjjuj.jpg" align="center">
     </a>
   </picture>
 </td>
