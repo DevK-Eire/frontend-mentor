@@ -125,7 +125,7 @@ Join our discord Community for support, tips and tricks for the challenges https
 </h3>
   <p align="center">
     <a href="https://social-media-dashboard-jet-five.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/DevK-Eire/social-media-dashboard" target="_blank">Repo</a>  | <a      
-    href="https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-o9iJhXlKrx" target="_blank">Try it Out</a>
+    href="https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H" target="_blank">Try it Out</a>
   </p>
 </td>
 <td width="50%">
